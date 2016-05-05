@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignEasy</string>
+    <string name="clear">Clear</string>
+    <string name="na">NA</string>
+    <string name="partlycloudy">Partly Cloudy</string>
+    <string name="sun">Sunny</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
